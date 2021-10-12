@@ -1,0 +1,50 @@
+.PrimaryContent {
+  padding-top: 2%;
+  padding-right: 4%;
+  padding-left: 4%;
+  padding-bottom: 1%;
+  text-align: center;
+}
+.SecondContent {
+  padding-top: 1%;
+  padding-right: 4%;
+  padding-left: 4%;
+  padding-bottom: 2%;
+  background-color: #212529;
+  text-align: center;
+}
+
+.TextContentOne {
+  -webkit-text-stroke: 0.15vw black;
+  color: whitesmoke;
+  font-size: 7vw;
+}
+.TextContentTwo {
+  -webkit-text-stroke: 0.15vw whitesmoke;
+  color: #212529;
+  font-size: 7vw;
+}
+
+.ContabilidadContentInfo1 {
+  padding: 4%;
+  background-color: whitesmoke;
+  text-align: center;
+}
+
+.NameTextOne {
+  font-size: 3vw;
+  text-align: center;
+  color: black;
+}
+
+.NameTextTwo {
+  font-size: 3vw;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.ListText {
+  font-size: 2vw;
+  text-align: center;
+  color: white;
+}

@@ -1,0 +1,103 @@
+body{
+  background-color: black;
+}
+
+.conteinerGroupPrincipal {
+  padding: 3%;
+  background-color: whitesmoke;
+  color: #212529;
+}
+
+.conteinerGroupTwoW {
+  padding-right: 15%;
+  background-color: whitesmoke;
+  color: #212529;
+}
+
+.conteinerGroupOneW {
+  padding-left: 9%;
+  padding-right: 9%;
+  padding-bottom: 9%;
+  padding-top: 9%;
+  background-color: whitesmoke;
+  color: #212529;
+}
+
+.conteinerGroupOneB {
+  padding: 9%;
+  background-color: #212529;
+  color: whitesmoke;
+}
+
+.conteinerGroupTwoB {
+  padding-left: 15%;
+  background-color: #212529;
+  color: whitesmoke;
+}
+
+.PrincipalTitle {
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  font-size: 4vw;
+}
+
+.SecondTitlePrincipal {
+  background: linear-gradient(rgb(138, 138, 128), rgb(10, 10, 10));
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: bold;
+  text-align: left;
+  font-size: 3.1vw;
+}
+
+.SecondTitleW {
+  background: linear-gradient(rgb(138, 138, 128), rgb(10, 10, 10));
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: bold;
+  text-align: left;
+  font-size: 2vw;
+}
+
+.SecondTitleB {
+  background: linear-gradient(rgb(255, 255, 254), rgb(180, 176, 176));
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: bold;
+  text-align: right;
+  font-size: 2vw;
+}
+
+.NormalText {
+  font-size: 1.6vw;
+  text-align: justify;
+}
+
+.Menu {
+  margin-right: 10%;
+}
+
+.TextMenu {
+  color: white;
+  text-decoration: none;
+  font-size: 1.4vw;
+}
+
+.TextMenu:hover {
+  color: rgb(203, 199, 199);
+}
+
+.PrincipalMenu {
+  padding-left: 2%;
+  padding-right: 12%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-color: #343a40;
+}
+
+.TextSubMenu {
+  color: black;
+  text-decoration: none;
+  font-size: 1.4vw;
+}

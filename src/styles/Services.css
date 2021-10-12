@@ -1,0 +1,19 @@
+
+.ListServicesText {
+  font-size: 1.5vw;
+  text-align: left;
+  color: black;
+}
+
+.ListServicesTextW {
+  font-size: 1.5vw;
+  text-align: left;
+  color: white;
+}
+
+.conteinerGroupOneWServices {
+  padding-left: 9%;
+  padding-right: 9%;
+  background-color: rgb(213, 167, 167);
+  color: #212529;
+}
